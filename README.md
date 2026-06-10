@@ -44,11 +44,19 @@ Full-stack AI chat app I built to learn the modern web stack. React frontend, Fa
 #### My stats, since GitHub measures these
 
 <a href="https://github.com/PatelSahil-HDS">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PatelSahil-HDS&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelSahil-HDS&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PatelSahil-HDS&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelSahil-HDS&layout=compact&theme=default&hide_border=true&langs_count=8" />
 </a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PatelSahil-HDS&theme=default&hide_border=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PatelSahil-HDS&theme=default&hide_border=true" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PatelSahil-HDS&theme=minimal&hide_border=true&area=true" width="100%" />
+
+---
+
+#### Contribution snake
+
+![snake gif](https://raw.githubusercontent.com/PatelSahil-HDS/PatelSahil-HDS/output/github-snake.svg)
 
 ---
 
@@ -58,4 +66,6 @@ Full-stack AI chat app I built to learn the modern web stack. React frontend, Fa
 💼 [linkedin.com/in/sahil-patel-hds](https://www.linkedin.com/in/sahil-patel-hds)
 📍 Saint Louis, MO
 
-I read my email daily. If you're hiring for healthcare analytics or data science work, especially anything involving public health datasets, I'd love to talk.
+I read my email daily. If you're hiring for healthcare analytics or data science work — especially anything involving public health datasets — I'd love to talk.
+
+<sub>Profile view counter:</sub> <img src="https://komarev.com/ghpvc/?username=PatelSahil-HDS&style=flat-square&color=blue&label=Profile+views" />

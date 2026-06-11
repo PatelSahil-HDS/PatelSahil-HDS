@@ -37,7 +37,7 @@ Full-stack AI chat app I built to learn the modern web stack. React frontend, Fa
 
 - Extending the hospital project across HCAI's 2016–2023 panel so I can model trends, not just one year
 - Reading up on gradient boosting (XGBoost, LightGBM) — linear models hit their ceiling fast on small clinical datasets
-- Looking for a **healthcare data analyst or data science internship** for summer/fall 2026
+- **Open to healthcare data analyst / data science roles** — fall 2026 internships or full-time starting May 2027 once I graduate
 
 ---
 
